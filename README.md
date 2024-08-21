@@ -1,7 +1,11 @@
 # Ajedrez
 Código en C# para un juego de ajedrez
+
+# Tablero
+![Tablero](https://cdn-media-1.freecodecamp.org/images/1*fTWDdJ2m3L72X6rqce9_tQ.gif)
+
 # Ejemplo de código
-´´´
+```
 using System;
 using System.Collections.Generic;
 
@@ -90,4 +94,5 @@ namespace ChessGame
         }
 
         private (int x, int y) ParsePosition(string position)
-´´´
+```
+
